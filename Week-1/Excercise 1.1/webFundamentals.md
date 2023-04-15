@@ -3,7 +3,7 @@
 ### What is a protocol stack, and how is it used in web development?
 Protocol stacks are a layered collection of protocols that work together to provide communication services. Each protocol in the stack is responsible for a specific task, and by layering them, we can create a more robust and reliable system.
 These layers are divided in such a way that each layer uses the output of the layer right below it, performs the allocated functions, and prepares the input for the next layer, or vice versa. This layered architecture is called the five-layer internet protocol stack.
-![5 layers to Protocol stack](https://www.educative.io/answers/what-is-the-five-layer-internet-protocol-stack#:~:text=Application%20Layer-,Transport,-Layer )
+
 ##### Physical layer
 The physical layer is responsible for breaking the data frame into bits, converting it into a form that can be transmitted over the physical communication line, and transferring it. This form could be light pulses (fiber-optic), radio waves for wireless communication, or electric pulses (for wired communication).On the receiving end, the physical layer collects the stream of bits and reassembles it into a data frame that is then passed onto the link layer for further processing.
 The protocols and rules used at this layer are dependent on the kind of communication medium being used. For example, ethernet (link layer protocol) has different physical layer protocols for twisted-pair cable, coaxial cable, and fiber optic cable.
@@ -141,8 +141,8 @@ Once you find your targeted keywords, try to apply them naturally and strategica
 
 2. Use Header Tags
 Another way to create an SEO friendly website is by utilizing header tags properly. They are HTML elements that give structure and meaning to a web page’s content, helping search engines understand its contents.
-Header tags consist of <h1> to <h6> HTML elements. Focus on your <h1> and <h2> tags since they are commonly used for the content’s title and headings. List your keywords and include them in these tags accordingly.
-Try to also include relevant SEO keywords to other headers once you optimize all the <h1> tags. Apply this method consistently whenever you publish content to improve your SEO rankings.
+Header tags consist of h1 to h6 HTML elements. Focus on your h1 and h2 tags since they are commonly used for the content’s title and headings. List your keywords and include them in these tags accordingly.
+Try to also include relevant SEO keywords to other headers once you optimize all the h1 tags. Apply this method consistently whenever you publish content to improve your SEO rankings.
 As a result, search engine crawlers will know that this page contains content related to those terms and be able to accurately index your site for relevant content. This will improve your page ranking on the SERPs, enabling you to reach the right audience.
 
 3. Have a Clean URL Structure
